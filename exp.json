@@ -1,0 +1,34 @@
+{
+  "locations_nearby": [
+    {
+      "ID"          : 0 ,
+      "name"        : "שם של מקום לפקל" ,
+      "description" : "מקום יפה מאוד שאפשר לעשות בו פקל",
+      "longitude"   : 30.561 ,
+      "latitude"    : 35.689 ,
+      "image"       : null ,
+      "uploader_id" : 5 ,
+      "likes"       : 52
+    },
+    {
+      "ID"          : 13 ,
+      "name"        : "שם של מקום לפקל" ,
+      "description" : "מקום יפה מאוד שאפשר לעשות בו פקל",
+      "longitude"   : 30.561 ,
+      "latitude"    : 35.689 ,
+      "image"       : "http://pkl.social/images/13.jpg" ,
+      "uploader_id" : 6 ,
+      "likes"       : 2
+    },
+    {
+      "ID"          : 25 ,
+      "name"        : "שם של מקום לפקל" ,
+      "description" : "מקום יפה מאוד שאפשר לעשות בו פקל",
+      "longitude"   : 30.561 ,
+      "latitude"    : 35.689 ,
+      "image"       : "http://pkl.social/images/25.jpg" ,
+      "uploader_id" : 8 ,
+      "likes"       : 0
+    }
+  ]
+}
